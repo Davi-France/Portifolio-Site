@@ -31,7 +31,7 @@ const Portifolio = () => {
 
       <div className="work__container grid">
         {items.map((item) => {
-          const { id, image, title, category } = item;
+          const { id, image, title, category, link } = item;
           return (
             <div className="work__card" key={id}>
               <div className="work__thumbnail">
@@ -41,7 +41,7 @@ const Portifolio = () => {
 
               <span className="work__category">{category}</span>
               <h3 className="work__title">{title}</h3>
-              <a href="#">
+              <a href={link}>
                 <i className="uil uil-link work__button"></i>
               </a>
             </div>

@@ -4,7 +4,7 @@ const DataContent = [
     category: "education",
     icon: "uil uil-graduation-cap",
     year: "2018-2020",
-    title: "Tecnico Informática - ETEC",
+    title: "Técnico Informática - ETEC",
     desc: "Ensino médio integrado ao técnico de informatica, lugar onde fui introduzido ao mundo da programação com tecnologias como: Java, SQL, SQLServer, PHP, HTML e CSS",
   },
   {

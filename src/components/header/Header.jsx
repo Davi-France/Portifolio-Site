@@ -28,12 +28,12 @@ const header = () => {
             </li>
             <li className="nav__item">
               <a href="#resume" className="nav__link">
-                <i className="bx bx-briefcase nav__icon"></i> Experiencia
+                <i className="bx bx-briefcase nav__icon"></i> Experiência
               </a>
             </li>
             <li className="nav__item">
               <a href="#portifolio" className="nav__link">
-                <i className="bx bx-terminal nav__icon"></i> Portifolio
+                <i className="bx bx-terminal nav__icon"></i> Portfólio
               </a>
             </li>
             <li className="nav__item">
