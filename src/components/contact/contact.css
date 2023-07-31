@@ -1,0 +1,51 @@
+.contact__container {
+  padding-bottom: 3rem;
+  justify-content: center;
+  column-gap: 6rem;
+}
+
+.contact__title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
+}
+
+.contact__info {
+  margin-top: 3rem;
+  display: grid;
+  column-gap: 2rem;
+  row-gap: 1.5rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+.contact__card {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  border-radius: 0.75rem;
+  text-align: center;
+}
+
+.contact__card-icon {
+  font-size: 2rem;
+  color: #000;
+  margin-bottom: 0.25rem;
+}
+
+.contact__card-data {
+  font-size: 1.5rem;
+  color: #000;
+}
+
+@media screen and (max-width: 768px) {
+  .contact__info {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .contact__info {
+    grid-template-columns: 1fr;
+  }
+}
