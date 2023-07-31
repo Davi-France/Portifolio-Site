@@ -42,7 +42,7 @@ const Portifolio = () => {
               <span className="work__category">{category}</span>
               <h3 className="work__title">{title}</h3>
               <a href="#">
-                <i class="uil uil-link work__button"></i>
+                <i className="uil uil-link work__button"></i>
               </a>
             </div>
           );
