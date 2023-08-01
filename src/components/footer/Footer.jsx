@@ -29,13 +29,6 @@ const Footer = () => {
         <div className="footer__social">
           {" "}
           <a
-            href="https://www.instagram.com/dav.i/"
-            className="footer__social-link"
-            target="_blank"
-          >
-            <i className="bx bxl-instagram"></i>
-          </a>
-          <a
             href="https://www.linkedin.com/in/davifrança/"
             className="footer__social-link"
             target="_blank"

@@ -38,7 +38,7 @@ const Menu = [
     id: 5,
     image: Work5,
     title: "CRUD em Node Js + Express",
-    category: "node",
+    category: "NodeJs",
     link: "https://github.com/Davi-France/nodeJs-Crud-Alura",
   },
 ];

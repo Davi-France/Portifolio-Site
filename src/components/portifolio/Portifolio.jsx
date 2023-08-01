@@ -27,6 +27,9 @@ const Portifolio = () => {
         <span className="work__item" onClick={() => filterItem("Angular")}>
           Angular
         </span>
+        <span className="work__item" onClick={() => filterItem("NodeJs")}>
+          NodeJs
+        </span>
       </div>
 
       <div className="work__container grid">
