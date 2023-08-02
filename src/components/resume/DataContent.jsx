@@ -22,7 +22,7 @@ const DataContent = [
     icon: "uil uil-briefcase",
     year: "06/2022 - atual",
     title: "Desenvolvedor FullStack - Agência Agile",
-    desc: "Desenvolvimento de sites utilizando o WordPress como CMS, e linguagens como PHP, CSS, SASS e JavaScript; Controle de versionamento utilizando Bitbucket, e gerenciamento no painel WHM; Programação dos sites sendo fiel aos designs feitos em softwares como Figma, AdobeXD e Photoshop; Manipulação e gerenciamento de Plugins do WordPress; Programação e desenvolvimento de Blogs em WordPress; Criação e configuração de Templates em WordPress.",
+    desc: "Desenvolvimento de sites utilizando o WordPress como CMS, e linguagens como PHP, CSS, SASS e JavaScript; Controle de versionamento utilizando Bitbucket, e gerenciamento no painel WHM; Manipulação e gerenciamento de Plugins do WordPress (Contact Form, Advanced Custom Fields, Yoast SEO e etc); Programação e desenvolvimento de Blogs em WordPress; Participação no desenvolvimento de sites de clientes como: EditaCast, JeraCapital, Agropalma, GS1 Código2, Sompo Seguros, Agência Pulso, Projetar entre outros; Programação dos sites sendo fiel aos designs feitos em softwares como Figma, AdobeXD e Photoshop; Criação e configuração de Templates em WordPress",
   },
 ];
 
