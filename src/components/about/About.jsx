@@ -19,7 +19,7 @@ const About = () => {
             anos durante o ensino médio técnico na ETEC de Informática.
             Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas
             na UNICID, buscando aprimorar minhas habilidades. Atualmente
-            entusiasta de Java, Angular, TypeScript, ReactJS e SQL e minha
+            entusiasta de Java, Angular, TypeScript, SQL e ReactJS e minha
             paixão por tecnologia me impulsiona a me dedicar cada vez mais a
             estudar e realizar projetos.
           </p>
